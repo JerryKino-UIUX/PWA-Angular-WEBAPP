@@ -1,0 +1,35 @@
+{
+  "COMMON": {
+    "CONTINUE": "繼續",
+    "CANCEL": "取消",
+    "SAVE": "保存",
+    "ERROR": "錯誤",
+    "SUCCESS": "成功"
+  },
+  "DOMAIN": {
+    "TITLE": "輸入服務器域名",
+    "LABEL": "服務器域名",
+    "ERRORS": {
+      "REQUIRED": "域名為必填項",
+      "INVALID": "請輸入有效的域名"
+    }
+  },
+  "LOGIN": {
+    "TITLE": "登錄",
+    "USERNAME": "用戶名",
+    "PASSWORD": "密碼",
+    "SUBMIT": "登錄",
+    "ERRORS": {
+      "REQUIRED_USERNAME": "用戶名為必填項",
+      "REQUIRED_PASSWORD": "密碼為必填項",
+      "INVALID_CREDENTIALS": "用戶名或密碼無效"
+    }
+  },
+  "SCANNER": {
+    "START": "開始掃描",
+    "STOP": "停止掃描",
+    "SCANNING": "掃描中...",
+    "SUCCESS": "二維碼掃描成功",
+    "ERROR": "掃描二維碼時出錯"
+  }
+}

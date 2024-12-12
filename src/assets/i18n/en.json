@@ -1,0 +1,35 @@
+{
+  "COMMON": {
+    "CONTINUE": "Continue",
+    "CANCEL": "Cancel",
+    "SAVE": "Save",
+    "ERROR": "Error",
+    "SUCCESS": "Success"
+  },
+  "DOMAIN": {
+    "TITLE": "Enter Server Domain",
+    "LABEL": "Server Domain",
+    "ERRORS": {
+      "REQUIRED": "Domain is required",
+      "INVALID": "Please enter a valid domain"
+    }
+  },
+  "LOGIN": {
+    "TITLE": "Login",
+    "USERNAME": "Username",
+    "PASSWORD": "Password",
+    "SUBMIT": "Login",
+    "ERRORS": {
+      "REQUIRED_USERNAME": "Username is required",
+      "REQUIRED_PASSWORD": "Password is required",
+      "INVALID_CREDENTIALS": "Invalid username or password"
+    }
+  },
+  "SCANNER": {
+    "START": "Start Scanner",
+    "STOP": "Stop Scanner",
+    "SCANNING": "Scanning...",
+    "SUCCESS": "QR Code scanned successfully",
+    "ERROR": "Error scanning QR Code"
+  }
+}
